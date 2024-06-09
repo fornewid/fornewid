@@ -8,8 +8,6 @@
 <a href="https://developers.google.com/community/experts/directory/profile/profile-sungyong-an"><img src="https://img.shields.io/badge/Android-GDE-4285F4?logo=android&logoColor=white"/></a>
 <a href="https://www.youtube.com/playlist?list=PLkzOGMWA1ua4wd30tzNWzowc7cQGA7dKJ"><img src="https://img.shields.io/badge/Podcast-FF0000?logo=youtube&logoColor=white"/></a>
 
-[![stats](https://github-readme-stats.vercel.app/api?username=fornewid&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **fornewid/fornewid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
