@@ -1,26 +1,13 @@
-### Hi there 👋
-
-<a href="https://github.com/fornewid"><img src="https://img.shields.io/badge/fornewid-181717?logo=github&logoColor=white"/></a>
-<a href="https://x.com/fornewid"><img src="https://img.shields.io/badge/fornewid-1DA1F2?logo=x&logoColor=white"/></a>
-<a href="https://speakerdeck.com/fornewid"><img src="https://img.shields.io/badge/fornewid-009287?logo=speakerdeck&logoColor=white"/></a>
-<a href="https://medium.com/@fornewid"><img src="https://img.shields.io/badge/fornewid-000000?logo=medium&logoColor=white"/></a>
 <a href="https://play.google.com/store/apps/details?id=com.naver.linewebtoon"><img src="https://img.shields.io/badge/WEBTOON-00D564?logo=webtoon&logoColor=white"/></a>
-<a href="https://developers.google.com/community/experts/directory/profile/profile-sungyong-an"><img src="https://img.shields.io/badge/Android-GDE-4285F4?logo=android&logoColor=white"/></a>
-<a href="https://www.youtube.com/playlist?list=PLkzOGMWA1ua4wd30tzNWzowc7cQGA7dKJ"><img src="https://img.shields.io/badge/Podcast-FF0000?logo=youtube&logoColor=white"/></a>
+<a href="https://developers.google.com/profile/u/117226621556384059712"><img src="https://img.shields.io/badge/Android-GDE-4285F4?logo=android&logoColor=white"/></a>
 
-<!--
-**fornewid/fornewid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-https://simpleicons.org/
--->
+#### Upcoming...
+- 🌐 **Navigation 3: 적응형 UI를 위한 앱 탐색**
+  - 2025.12 / [DEVFEST INCHEON 2025](https://www.ticketa.co/events/40)
+- 🔓 **글로벌 웹툰 안드로이드 Large Screen 적용기** (🎬 Video, [Slides](https://speakerdeck.com/fornewid/webtoon-large-screen))
+  - 2025.10 / NAVER ENGINEERING DAY
+ 
+#### Past Talks
+- 📝 [Articles](https://medium.com/@fornewid)
+- 🗣️ [Speaking](https://github.com/fornewid/fornewid/blob/main/speaking.md)
+- 🎧 [Podcasts](https://www.youtube.com/playlist?list=PLkzOGMWA1ua4wd30tzNWzowc7cQGA7dKJ)
