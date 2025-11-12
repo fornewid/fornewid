@@ -3,10 +3,10 @@
 #### ⏳ Upcoming...
 - 🌐 **Navigation 3: 적응형 UI를 위한 앱 탐색**
   - 2025.12 / [DEVFEST INCHEON 2025](https://www.ticketa.co/events/40)
-- 🔓 **글로벌 웹툰 안드로이드 Large Screen 적용기** (🎬 Video, [Slides](https://speakerdeck.com/fornewid/webtoon-large-screen))
-  - 2025.10 / NAVER ENGINEERING DAY
 
 #### 2025
+- 🔓 **글로벌 웹툰 안드로이드 Large Screen 적용기** (🎬 [Video](https://www.youtube.com/watch?v=_T2nQeTHiNc), [Slides](https://speakerdeck.com/fornewid/webtoon-large-screen))
+  - 2025.10 / [NAVER ENGINEERING DAY](https://d2.naver.com/helloworld/1072010)
 - 🌐 **What's new in Adaptive Android development** ([Slides](https://speakerdeck.com/fornewid/android-adaptive-apps))
   - 2025.07 / Google I/O Extended Incheon 2025
 - 🌐 **ReadMoreTextView: 텍스트 '더보기' 기능 구현하기** (🎬 [Video](https://www.youtube.com/watch?v=y5lKXM1G3mI), [Slides](https://speakerdeck.com/fornewid/readmoretextview))
