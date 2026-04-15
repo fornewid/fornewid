@@ -3,6 +3,10 @@
 #### ⏳ Upcoming...
 - No plans
 
+#### 2026
+- 🔓 **의존성 주입과 모듈화** ([Slides](https://speakerdeck.com/fornewid/di-and-modularization))
+  - 2026.04 / 삼성전자
+
 #### 2025
 - 🌐 **Navigation 3: 적응형 UI를 위한 앱 탐색** ([Slides](https://speakerdeck.com/fornewid/nav3-adaptive))
   - 2025.12 / [DEVFEST INCHEON 2025](https://www.ticketa.co/events/40)
