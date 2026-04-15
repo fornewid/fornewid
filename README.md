@@ -2,10 +2,8 @@
 <a href="https://developers.google.com/profile/u/117226621556384059712"><img src="https://img.shields.io/badge/Android-GDE-4285F4?logo=android&logoColor=white"/></a>
 
 #### Released!
-- 🌐 **Navigation 3: 적응형 UI를 위한 앱 탐색** ([Slides](https://speakerdeck.com/fornewid/nav3-adaptive))
-  - 2025.12 / [DEVFEST INCHEON 2025](https://www.ticketa.co/events/40)
-- 🔓 **글로벌 웹툰 안드로이드 Large Screen 적용기** (🎬 [Video](https://www.youtube.com/watch?v=_T2nQeTHiNc), [Slides](https://speakerdeck.com/fornewid/webtoon-large-screen))
-  - 2025.10 / [NAVER ENGINEERING DAY](https://d2.naver.com/helloworld/1072010)
+- 🔓 **의존성 주입과 모듈화** ([Slides](https://speakerdeck.com/fornewid/di-and-modularization))
+  - 2026.04 / 삼성전자
  
 #### Past Talks
 - 📝 [Articles](https://medium.com/@fornewid)
