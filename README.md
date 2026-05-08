@@ -1,6 +1,10 @@
 <a href="https://play.google.com/store/apps/details?id=com.naver.linewebtoon"><img src="https://img.shields.io/badge/WEBTOON-00D564?logo=webtoon&logoColor=white"/></a>
 <a href="https://developers.google.com/profile/u/117226621556384059712"><img src="https://img.shields.io/badge/Android-GDE-4285F4?logo=android&logoColor=white"/></a>
 
+#### Upcoming...
+- 🔓 **Android 앱의 의도치 않은 변경 방지하기** (🎬 Video, Slides)
+  - 2026.05 / NAVER ENGINEERING DAY
+
 #### Released!
 - 🔓 **의존성 주입과 모듈화** ([Slides](https://speakerdeck.com/fornewid/di-and-modularization))
   - 2026.04 / 삼성전자
