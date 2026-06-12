@@ -4,7 +4,7 @@
 #### Upcoming...
 
 #### Released!
-- 🔓 **Android 앱의 의도치 않은 변경 방지하기** (🎬 Video, [Slides](https://speakerdeck.com/fornewid/manifest-shield))
+- 🔓 **Android 앱의 의도치 않은 변경 방지하기** (🎬 [Video](https://youtu.be/j2kKQxLNBvE), [Slides](https://speakerdeck.com/fornewid/manifest-shield))
   - 2026.05 / NAVER ENGINEERING DAY
 - 🔓 **의존성 주입과 모듈화** ([Slides](https://speakerdeck.com/fornewid/di-and-modularization))
   - 2026.04 / 삼성전자
