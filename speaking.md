@@ -1,7 +1,8 @@
 # Speaking
 
 #### ⏳ Upcoming...
-- No plans
+- 🌐 **baseline으로 마이그레이션, 리팩토링 안전하게 맡기기**
+  - 2026.11 / [DROID KNIGHTS 2026](https://www.droidknights.dev/)
 
 #### 2026
 - 🌐 **Android CLI** ([Slides](https://speakerdeck.com/fornewid/android-cli))
