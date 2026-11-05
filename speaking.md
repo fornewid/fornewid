@@ -1,10 +1,8 @@
 # Speaking
 
-#### ⏳ Upcoming...
-- 🌐 **baseline으로 마이그레이션, 리팩토링 안전하게 맡기기**
-  - 2026.11 / [DROID KNIGHTS 2026](https://www.droidknights.dev/)
-
 #### 2026
+- 🌐 **baseline으로 마이그레이션, 리팩토링 안전하게 맡기기** ([Slides](https://speakerdeck.com/fornewid/make-your-own-baseline))
+  - 2026.11 / [DROID KNIGHTS 2026](https://www.droidknights.dev/)
 - 🌐 **Android CLI** ([Slides](https://speakerdeck.com/fornewid/android-cli))
   - 2026.07 / Google I/O Extended Korea Android
 - 🔓 **Android 앱의 의도치 않은 변경 방지하기** (🎬 Video, [Slides](https://speakerdeck.com/fornewid/manifest-shield))
